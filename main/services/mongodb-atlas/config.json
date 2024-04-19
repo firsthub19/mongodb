@@ -1,0 +1,22 @@
+{
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "aggOptions": {
+            "forceAllowDiskUse": false
+        },
+        "clusterId": "6619cb6ebd34a5544242d641",
+        "clusterName": "ftp-egest",
+        "clusterSize": "M0",
+        "clusterType": "atlas",
+        "clusterUpdated": 0,
+        "groupName": "Project 0",
+        "isLoadBalanced": false,
+        "lastUpdated": 1712966730,
+        "orgName": "Hub's Org - 2024-04-12",
+        "readPreference": "primary",
+        "uri": "mongodb://ac-rwmuthy-shard-00-00.gekopua.mesh.mongodb.net:30454,ac-rwmuthy-shard-00-01.gekopua.mesh.mongodb.net:30454,ac-rwmuthy-shard-00-02.gekopua.mesh.mongodb.net:30454",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
